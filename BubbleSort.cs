@@ -28,7 +28,7 @@ namespace WindowsFormsApp1
                 if (mar == false)
                 {
                     return vec;
-                    break;
+                    
                 }
             }
             return vec;
